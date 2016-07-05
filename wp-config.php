@@ -13,7 +13,7 @@
  *
  * @package WordPress
  */
-:@/?reconnect=true
+
 // ** Configurações do MySQL - Você pode pegar essas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
 define('DB_NAME', 'heroku_bb99166f892fc33');
